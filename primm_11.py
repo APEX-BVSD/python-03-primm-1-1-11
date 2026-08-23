@@ -3,7 +3,7 @@ Description of program here
 First Last - Month Year
 """
 
-def main():
+def main() -> None:
   
     num1: int = input("Enter a number: ")
     num2: int = input("Enter another number: ")
