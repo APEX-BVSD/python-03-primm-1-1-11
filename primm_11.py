@@ -1,7 +1,6 @@
 """
-PRIMM: 1+1 = 11
 Description of program here
-Name - Date
+First Last - Month Year
 """
 
 def main():
